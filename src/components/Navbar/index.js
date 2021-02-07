@@ -10,7 +10,7 @@ import  {
   NavBtn,
   NavBtnLink
 } from './NavbarElements';
-import {BrowserRouter as Router} from 'react-router-dom';
+//import {BrowserRouter as Router} from 'react-router-dom';
 import {FaBars} from 'react-icons/fa';
 import {IconContext} from 'react-icons/lib';
 import {animateScroll as scroll} from 'react-scroll';
